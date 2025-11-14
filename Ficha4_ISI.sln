@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ficha4_ISI", "Ficha4_ISI\Ficha4_ISI.csproj", "{543113D1-3316-4577-935E-1244BA82373F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543113D1-3316-4577-935E-1244BA82373F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543113D1-3316-4577-935E-1244BA82373F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543113D1-3316-4577-935E-1244BA82373F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543113D1-3316-4577-935E-1244BA82373F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
