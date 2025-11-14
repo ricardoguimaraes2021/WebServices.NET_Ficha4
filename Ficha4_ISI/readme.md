@@ -104,7 +104,6 @@ A interface Swagger permite testar todos os endpoints diretamente no browser, ve
 
 **Ricardo Guimarães**  
 Estudante de Engenharia de Sistemas Informáticos – IPCA  
-GitHub: (adicionar link do perfil quando o repositório for público)
 
 ---
 
